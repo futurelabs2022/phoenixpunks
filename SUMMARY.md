@@ -7,7 +7,7 @@
 ## Phoenixpunks-deep dives
 
 * [The Vision](phoenixpunks-deep-dives/the-vision.md)
-* [Why PhoenixPunk?](phoenixpunks-deep-dives/why-phoenixpunk.md)
+* [Why PhoenixPunks?](phoenixpunks-deep-dives/why-phoenixpunks.md)
 * [RoadMap](phoenixpunks-deep-dives/roadmap.md)
 
 ## phoenixpunks-future club

@@ -2,13 +2,13 @@
 description: A detailed set of reasons for why we've chosen PhoenixPunk for NFT set.
 ---
 
-# Why PhoenixPunk?
+# Why PhoenixPunks?
 
-**Phoenix punk fair mechanism**
+**PhoenixPunks fair mechanism**
 
-The first PhoenixPunk is a collection of 10,000 unique NFT collections based on Ethereum. It is supported by the world-famous public chain Ethereum Ethereum underlying technology and combined with the world's largest distributed data storage system IPFs to create the safest and most valuable NFT digital assets.
+The first PhoenixPunks is a collection of 10,000 unique NFT collections based on Ethereum. It is supported by the world-famous public chain Ethereum Ethereum underlying technology and combined with the world's largest distributed data storage system IPFs to create the safest and most valuable NFT digital assets.
 
-To be fair, PhoenixPunk's NFT is cast randomly, and novice players and experienced users have the same chance to buy rare NFTs. We use cheating tools to limit malicious operations. The principle is to find metadata before ordinary users can obtain metadata, and then use metadata to obtain more rare NFTs in the coinage process, or buy unpublished NFTs before metadata is uploaded to Opensea. In this way, even our staff can't use cheating.
+To be fair, PhoenixPunks' NFT is cast randomly, and novice players and experienced users have the same chance to buy rare NFTs. We use cheating tools to limit malicious operations. The principle is to find metadata before ordinary users can obtain metadata, and then use metadata to obtain more rare NFTs in the coinage process, or buy unpublished NFTs before metadata is uploaded to Opensea. In this way, even our staff can't use cheating.
 
 
 
@@ -20,7 +20,7 @@ We believe that Metaverse will shape the future of NFTs and core NFT assets like
 
 **·Dao governance rights:**
 
-The first batch of mint participants will become Phoenix punk OG users and participate in Dao governance
+The first batch of mint participants will become PhoenixPunks OG users and participate in Dao governance
 
 **·Metauniverse 3D Avatar:**
 
@@ -52,15 +52,15 @@ The platform allows other NFT series to synthesize gemstones to generate charact
 
 ————————
 
-**PhoenixPunk公平机制**
+**PhoenixPunks公平机制**
 
-首发的PhoenixPunk基于以太坊的10,000件独特NFT收藏品的集合，是以全球知名公链以太坊 Ethereum底层技术为支持，结合全球最大的分布式数据存储系统 IPFS，致力打造最安全、价值最大化的NFT数字资产。
+首发的PhoenixPunks基于以太坊的10,000件独特NFT收藏品的集合，是以全球知名公链以太坊 Ethereum底层技术为支持，结合全球最大的分布式数据存储系统 IPFS，致力打造最安全、价值最大化的NFT数字资产。
 
-公平起见，PhoenixPunk的 NFT 是随机铸造的，新手玩家和资深用户具有同等几率购买到稀有 的NFT 。我们借助作弊工具来限制恶意操作，原理是在普通用户可以获得元数据之前找到元数据，然后在铸造过程中利用元数据获得更多的稀有 NFT，或者在元数据上传到 OpenSea 之前购买尚未公开的 NFT。这样就连我们的工作人员都无法使用作弊手段。
+公平起见，PhoenixPunks的 NFT 是随机铸造的，新手玩家和资深用户具有同等几率购买到稀有 的NFT 。我们借助作弊工具来限制恶意操作，原理是在普通用户可以获得元数据之前找到元数据，然后在铸造过程中利用元数据获得更多的稀有 NFT，或者在元数据上传到 OpenSea 之前购买尚未公开的 NFT。这样就连我们的工作人员都无法使用作弊手段。
 
 ****
 
-我们相信NFT的未来将在元宇宙里充分体现，像 CryptoPunk 这样的核心 NFT 资产将成为一种元界身份，在许多元宇宙场景中拥有令人难以置信的特权。PhoenixPunk也在致力于构建自己的元宇宙应用价值，我们基于一套完善的经济模型运作，以推动NFT及衍生品为用户带来的投资价值。
+我们相信NFT的未来将在元宇宙里充分体现，像 CryptoPunk 这样的核心 NFT 资产将成为一种元界身份，在许多元宇宙场景中拥有令人难以置信的特权。PhoenixPunks也在致力于构建自己的元宇宙应用价值，我们基于一套完善的经济模型运作，以推动NFT及衍生品为用户带来的投资价值。
 
 **·       版税收入：**
 
@@ -68,7 +68,7 @@ The platform allows other NFT series to synthesize gemstones to generate charact
 
 ·      **DAO治理权：**
 
-首批Mint参与者将成为PhoenixPunk OG用户，并参与DAO治理
+首批Mint参与者将成为PhoenixPunks OG用户，并参与DAO治理
 
 ·      **元宇宙3D化身：**
 
