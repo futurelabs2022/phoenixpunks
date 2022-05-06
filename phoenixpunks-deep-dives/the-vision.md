@@ -1,5 +1,5 @@
 ---
-description: The overarching vision for what we intend PhoenixPunk to become.
+description: The overarching vision for what we intend PhoenixPunks to become.
 ---
 
 # The Vision

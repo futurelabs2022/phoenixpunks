@@ -1,5 +1,5 @@
 ---
-description: A detailed set of reasons for why we've chosen PhoenixPunk for NFT set.
+description: A detailed set of reasons for why we've chosen PhoenixPunks for NFT set.
 ---
 
 # Why PhoenixPunks?
@@ -12,7 +12,7 @@ To be fair, PhoenixPunks' NFT is cast randomly, and novice players and experienc
 
 
 
-We believe that Metaverse will shape the future of NFTs and core NFT assets like CryptoPunk will become a kind of Metaverse identity which owns incredible privileges in many metaverse games. PhoenixPunk is also committed to building its own Metaverse application value. We operate based on a set of perfect economic models to promote the investment value brought by NFT and derivatives to users.
+We believe that Metaverse will shape the future of NFTs and core NFT assets like CryptoPunks will become a kind of Metaverse identity which owns incredible privileges in many metaverse games. PhoenixPunks is also committed to building its own Metaverse application value. We operate based on a set of perfect economic models to promote the investment value brought by NFT and derivatives to users.
 
 **·Royalty income:**
 
@@ -60,7 +60,7 @@ The platform allows other NFT series to synthesize gemstones to generate charact
 
 ****
 
-我们相信NFT的未来将在元宇宙里充分体现，像 CryptoPunk 这样的核心 NFT 资产将成为一种元界身份，在许多元宇宙场景中拥有令人难以置信的特权。PhoenixPunks也在致力于构建自己的元宇宙应用价值，我们基于一套完善的经济模型运作，以推动NFT及衍生品为用户带来的投资价值。
+我们相信NFT的未来将在元宇宙里充分体现，像 CryptoPunks 这样的核心 NFT 资产将成为一种元界身份，在许多元宇宙场景中拥有令人难以置信的特权。PhoenixPunks也在致力于构建自己的元宇宙应用价值，我们基于一套完善的经济模型运作，以推动NFT及衍生品为用户带来的投资价值。
 
 **·       版税收入：**
 

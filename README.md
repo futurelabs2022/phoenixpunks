@@ -1,5 +1,5 @@
 ---
-description: About PhoenixPunk Learn about the team behind PhoenixPunks.
+description: Learn about the team behind PhoenixPunks.
 ---
 
 # About PhoenixPunks
