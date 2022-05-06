@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About PhoenixPunk](README.md)
+* [About PhoenixPunks](README.md)
 * [Story](story.md)
 * [Future Labs](future-labs.md)
 

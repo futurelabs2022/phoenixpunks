@@ -1,12 +1,12 @@
 ---
-description: About PhoenixPunk Learn about the team behind PhoenixPunk.
+description: About PhoenixPunk Learn about the team behind PhoenixPunks.
 ---
 
-# About PhoenixPunk
+# About PhoenixPunks
 
 PhoenixPunks is the first NFT work series of Future Lab.&#x20;
 
-The core creators of PhoenixPunks are Japanese street artists. There is a famous team of creative graffiti artists in Osaka. If you walk in the streets of Nakazaki Town, Nagasaki, Guangyuan wafer, etc., you can see their hand-painted works at any time. It's not too much to say that Osaka's artistic atmosphere is largely due to them. The team of PhoenixPunks is based all over the world. We aim to create a larger narrative system, not just a series of NFT products. With the possibility of the current global NFT market, we think we can also create a new height and scale. This will be Phoenix Punks' vision to set new standards for the global NFT industry by combining global artistic strength, technological innovation and business leadership. ​&#x20;
+The core creators of PhoenixPunks are Japanese street artists. There is a famous team of creative graffiti artists in Osaka. If you walk in the streets of Nakazaki Town, Nagasaki, Guangyuan wafer, etc., you can see their hand-painted works at any time. It's not too much to say that Osaka's artistic atmosphere is largely due to them. The team of PhoenixPunks is based all over the world. We aim to create a larger narrative system, not just a series of NFT products. With the possibility of the current global NFT market, we think we can also create a new height and scale. This will be PhoenixPunks' vision to set new standards for the global NFT industry by combining global artistic strength, technological innovation and business leadership. ​&#x20;
 
 PhoenixPunks是Future Lab的第一个NFT作品系列。&#x20;
 
